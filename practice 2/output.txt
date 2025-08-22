@@ -1,0 +1,6 @@
+Text: EasyOCR, Confidence: 0.98
+Text: Python, Confidence: 0.88
+Text: Tutorial, Confidence: 0.99
+Text: with, Confidence: 0.99
+Text: OCR, Confidence: 1.00
+Text: Examples, Confidence: 0.83
